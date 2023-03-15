@@ -11,3 +11,5 @@ console.log(nums);
 for(let key in nums){
     console.log(nums[key])
 }
+
+//this is for of loop example
